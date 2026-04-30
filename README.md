@@ -1,4 +1,5 @@
-# Titanic-Survival-Prediction-EDA-Logistic-Regression-Python-Scikit-learn
+**Titanic Survival Prediction Using Machine Learning (EDA + Classification Models)**
+
 Here’s a more detailed, polished description you can use in your GitHub repo:
 
 ---
