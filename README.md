@@ -23,4 +23,4 @@ Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 * Model building using Logistic Regression
 * Performance evaluation with multiple metrics
 
-
+_**For a more detailed explanation of this project, please review the accompanying DOCX document.**_
